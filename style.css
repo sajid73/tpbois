@@ -1,0 +1,58 @@
+.topbar{
+/*     
+    height: 20%; */
+    width: 100%;
+    margin-top: 0;
+    padding: 0;
+    color: chartreuse;
+    /* background-image: url("https://media.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif"); */
+    background-color: rgba(0, 0, 0, 0.89);
+}
+body{
+    margin: 0px;
+}
+h3{
+    font-size: 30px;
+    margin-top: 0%;
+    padding: 6px;
+}
+.intro{
+    margin-left: 3%;
+    font-family: 'Audiowide', cursive;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.half-width{
+    height: 650px;
+    margin: 0px;
+    width: 50%;
+    float: left;
+}
+.first-side{
+    background-color: indigo;
+}
+.second-side{
+    background-color: black;
+}
+.nav{
+    float: right;
+    display: inline;
+    margin-top: 35px;
+    margin-right: 200px;
+}
+.nav-list{
+    list-style: none;
+    /* float: left; */
+    display: inline;
+    padding-right: 5px;
+    font-size: 25px;
+    margin-right: 20px;
+}
+.nav-list a{
+    text-decoration: none;
+}
+.nav-list a:hover{
+    border: 3px solid lightsalmon;
+}
