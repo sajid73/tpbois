@@ -56,3 +56,19 @@ h3{
 .nav-list a:hover{
     border: 3px solid lightsalmon;
 }
+.s3{
+    height: 650px;
+    width: 100%;
+    height: 650px;
+    background-color: lightsalmon;
+}
+.about{
+    
+}
+.aboutimg{
+    float: left;
+}
+#about-us{
+    float: left;
+    padding: 5%;
+}
