@@ -54,7 +54,7 @@ h3{
     text-decoration: none;
 }
 .nav-list a:hover{
-    border: 3px solid lightsalmon;
+    border-bottom: 3px solid lightsalmon;
 }
 .s3{
     height: 650px;
